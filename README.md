@@ -3,9 +3,11 @@
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <img src="https://img.shields.io/github/stars/3madov-77" alt="Stars Badge"/>
 ![](https://visitor-badge.glitch.me/badge?page_id=3madov-77.3madov-77)
 
+<div align="center">
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/3madov?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FEmadzxy&screen_name=Emadzxy) [![Gmail Badge](https://img.shields.io/badge/-Emadzxy7@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:emadzxy7@gmail.com)](mailto:emadzxy7@gmail.com)
 
-<div align="center">
+
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
