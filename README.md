@@ -64,6 +64,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#5](https://github.com/3madov-77/My_portfolio/pull/5) in [3madov-77/My_portfolio](https://github.com/3madov-77/My_portfolio)
+2. 🎉 Merged PR [#2](https://github.com/3madov-77/Social-Media_App/pull/2) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
+3. 💪 Opened PR [#2](https://github.com/3madov-77/Social-Media_App/pull/2) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
+4. 🎉 Merged PR [#1](https://github.com/3madov-77/Social-Media_App/pull/1) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
+5. 💪 Opened PR [#1](https://github.com/3madov-77/Social-Media_App/pull/1) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
 <!--END_SECTION:activity-->
 
 </details>
