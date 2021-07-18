@@ -5,8 +5,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/3madov?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FEmadzxy&screen_name=Emadzxy) [![Gmail Badge](https://img.shields.io/badge/-Emadzxy7@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:emadzxy7@gmail.com)](mailto:emadzxy7@gmail.com)
 
+<div align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-
+</div>
 ---
 
 ## I'm a Developer, and Teacher-Assitant!!
@@ -78,11 +79,10 @@
 
 <div align="center">
 
-  <img alt="Emad's GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app
-/api?username=3madov-77&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" />
+  <img alt="3madov-77's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=3madov-77&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" />
 
 
-  <img align='center' alt="Top Langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3madov-77&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" />
+  <img alt="Top Langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3madov-77&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" />
 
 </div>
 
