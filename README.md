@@ -82,7 +82,7 @@
 /api?username=3madov-77&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" />
 
 
-  <img alt="Top Langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3madov-77&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/3madov-77" />
+  <img align='center' alt="Top Langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3madov-77&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" />
 
 </details>
 
