@@ -8,7 +8,6 @@
 <div align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
----
 
 ## I'm a Developer, and Teacher-Assitant!!
 
@@ -27,10 +26,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://3madov-77.github.io/My_portfolio/)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Emadzxy)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/emad-alzoubi/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/3madov_7/)
+[<img  alt="My Portfolio" width="22px" src="./assets/globe.png" />](https://3madov-77.github.io/My_portfolio/)
+[<img align="left" alt="Emadzxy | Twitter" width="22px" src="./assets/twitter.svg" />](https://twitter.com/Emadzxy)
+[<img align="left" alt="EmadAlzoubi | LinkedIn" width="32px" src="./assets/linkedin.png" />](https://www.linkedin.com/in/emad-alzoubi/)
+[<img align="left" alt="3madov_7 | Instagram" width="27px" src="./assets/instgram.png" />](https://www.instagram.com/3madov_7/)
 
 <br />
 
@@ -64,11 +63,6 @@
 <details>
   <summary>Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/3madov-77/My_portfolio/pull/5) in [3madov-77/My_portfolio](https://github.com/3madov-77/My_portfolio)
-2. 🎉 Merged PR [#2](https://github.com/3madov-77/Social-Media_App/pull/2) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
-3. 💪 Opened PR [#2](https://github.com/3madov-77/Social-Media_App/pull/2) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
-4. 🎉 Merged PR [#1](https://github.com/3madov-77/Social-Media_App/pull/1) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
-5. 💪 Opened PR [#1](https://github.com/3madov-77/Social-Media_App/pull/1) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
 <!--END_SECTION:activity-->
 
 </details>
