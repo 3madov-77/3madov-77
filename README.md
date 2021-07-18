@@ -62,7 +62,6 @@
 
 <details>
   <summary>Recent GitHub Activity</summary>
-  
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#5](https://github.com/3madov-77/My_portfolio/pull/5) in [3madov-77/My_portfolio](https://github.com/3madov-77/My_portfolio)
 2. 🎉 Merged PR [#2](https://github.com/3madov-77/Social-Media_App/pull/2) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
@@ -77,12 +76,15 @@
 <details>
   <summary>GitHub Stats</summary>
 
+<div align="center">
 
-  <img alt="Emad's GitHub Stats" width="50%" src="https://github-readme-stats-henna-theta.vercel.app
+  <img alt="Emad's GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app
 /api?username=3madov-77&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" />
 
 
   <img align='center' alt="Top Langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3madov-77&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" />
+
+</div>
 
 </details>
 
