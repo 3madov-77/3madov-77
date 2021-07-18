@@ -58,15 +58,7 @@
 <br />
 
 ---
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://github.com/3madov-77)
-
----
+###
 
 <details>
   <summary>Recent GitHub Activity</summary>
@@ -80,10 +72,12 @@
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="left" alt="Emad's GitHub Stats" src="https://github-readme-stats-henna-theta.vercel.app
+
+  <img alt="Emad's GitHub Stats" width="50%" src="https://github-readme-stats-henna-theta.vercel.app
 /api?username=3madov-77&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" />
 
-<img alt="Top Langs" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3madov-77&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/3madov-77" />
+
+  <img alt="Top Langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3madov-77&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/3madov-77" />
 
 </details>
 
