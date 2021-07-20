@@ -65,11 +65,11 @@
 <details>
   <summary>Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/3madov-77/Social-Media_App/pull/4) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
-2. 💪 Opened PR [#4](https://github.com/3madov-77/Social-Media_App/pull/4) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
-3. 🎉 Merged PR [#3](https://github.com/3madov-77/Social-Media_App/pull/3) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
-4. 💪 Opened PR [#3](https://github.com/3madov-77/Social-Media_App/pull/3) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
-5. 💪 Opened PR [#5](https://github.com/3madov-77/My_portfolio/pull/5) in [3madov-77/My_portfolio](https://github.com/3madov-77/My_portfolio)
+1. 🎉 Merged PR [#5](https://github.com/3madov-77/Social-Media_App/pull/5) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
+2. 💪 Opened PR [#5](https://github.com/3madov-77/Social-Media_App/pull/5) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
+3. 🎉 Merged PR [#4](https://github.com/3madov-77/Social-Media_App/pull/4) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
+4. 💪 Opened PR [#4](https://github.com/3madov-77/Social-Media_App/pull/4) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
+5. 🎉 Merged PR [#3](https://github.com/3madov-77/Social-Media_App/pull/3) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
 <!--END_SECTION:activity-->
 
 </details>
