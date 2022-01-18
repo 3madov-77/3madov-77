@@ -28,7 +28,7 @@
 
 ### Connect with me:
 
-[<img  alt="My Portfolio" width="22px" src="./assets/globe.png" />](https://3madov-77.github.io/My_portfolio/)
+[<img  alt="My Portfolio" width="22px" src="./assets/globe.png" />](https://emad-aldeen.github.io/My_portfolio/)
 [<img align="left" alt="Emadzxy | Twitter" width="22px" src="./assets/twitter.svg" />](https://twitter.com/Emadzxy)
 [<img align="left" alt="EmadAlzoubi | LinkedIn" width="32px" src="./assets/linkedin.png" />](https://www.linkedin.com/in/emad-alzoubi/)
 [<img align="left" alt="3madov_7 | Instagram" width="27px" src="./assets/instgram.png" />](https://www.instagram.com/3madov_7/)
