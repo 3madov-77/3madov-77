@@ -13,7 +13,7 @@
 
 ## I'm a Developer, and Teacher-Assitant!!
 
-- 🔭 I just launched My Portfolio: [live-link](https://3madov-77.github.io/My_portfolio/)!
+- 🔭 I just launched My Portfolio: [live-link](https://emad-aldeen.github.io/My_portfolio/)!
 - 🌱 I’m currently learning everything 💪
 - 👯 I’m Always looking to collaborate with other Developers
 - 🥅 2021 Goals: Contribute more to Open Source projects ✔
@@ -22,7 +22,7 @@
 
 ## Vibing to : 🎧
 
-[<img src="https://spotify-now-playing-nine-omega.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cctn3q7vtwjyunoktdaldho3x)
+[<img src="https://spotify-now-playing-3madov-77.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cctn3q7vtwjyunoktdaldho3x)
 
 ---
 
@@ -81,10 +81,10 @@
 
 <div align="center">
 
-  <img alt="3madov-77's github stats" width="50%" src="https://github-readme-stats-3madov-77.vercel.app/api?username=3madov-77&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" />
+  <img alt="emad's github stats" width="50%" src="https://github-readme-stats-3madov-77.vercel.app/api?username=emad-aldeen&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" />
 
 
-  <img alt="Top Langs" width="50%" src="https://github-readme-stats-3madov-77.vercel.app/api/top-langs/?username=3madov-77&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" />
+  <img alt="Top Langs" width="50%" src="https://github-readme-stats-3madov-77.vercel.app/api/top-langs/?username=emad-aldeen&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" />
 
 </div>
 
