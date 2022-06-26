@@ -66,6 +66,8 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#16](https://github.com/emad-aldeen/Social-Media_App/pull/16) in [emad-aldeen/Social-Media_App](https://github.com/emad-aldeen/Social-Media_App)
+2. 💪 Opened PR [#16](https://github.com/emad-aldeen/Social-Media_App/pull/16) in [emad-aldeen/Social-Media_App](https://github.com/emad-aldeen/Social-Media_App)
 <!--END_SECTION:activity-->
 
 </details>
