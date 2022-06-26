@@ -22,7 +22,7 @@
 
 ## Vibing to : 🎧
 
-[<img src="https://spotify-now-playing-3madov-77.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cctn3q7vtwjyunoktdaldho3x)
+[<img src="https://spotify-now-playing-7fvcmtgx3-3madov-77.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cctn3q7vtwjyunoktdaldho3x)
 
 ---
 
@@ -66,11 +66,6 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/3madov-77/Social-Media_App/pull/15) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
-2. 💪 Opened PR [#15](https://github.com/3madov-77/Social-Media_App/pull/15) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
-3. 🎉 Merged PR [#14](https://github.com/3madov-77/Social-Media_App/pull/14) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
-4. 💪 Opened PR [#14](https://github.com/3madov-77/Social-Media_App/pull/14) in [3madov-77/Social-Media_App](https://github.com/3madov-77/Social-Media_App)
-5. 🎉 Merged PR [#7](https://github.com/3madov-77/My_portfolio/pull/7) in [3madov-77/My_portfolio](https://github.com/3madov-77/My_portfolio)
 <!--END_SECTION:activity-->
 
 </details>
