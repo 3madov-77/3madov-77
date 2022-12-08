@@ -14,15 +14,15 @@
 ## I'm a Developer, and Teacher-Assitant!!
 
 - 🔭 I just launched My Portfolio: [live-link](https://emad-aldeen.github.io/My_portfolio/)!
-- 🌱 I’m currently learning everything 💪
+- 🌱 I’m currently learning more about Node.js & Django 💪
 - 👯 I’m Always looking to collaborate with other Developers
-- 🥅 2021 Goals: Contribute more to Open Source projects ✔
+- 🥅 2023 Goals: Contribute more to Open Source projects ✔
 - ⚡ Fun fact: I still belive that Harry-Poter the first who used python language.. 🤣
 
 
 ## Vibing to : 🎧
 
-[<img src="https://spotify-now-playing-7fvcmtgx3-3madov-77.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cctn3q7vtwjyunoktdaldho3x)
+[<img src="https://spotify-now-playing-3madov-77.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cctn3q7vtwjyunoktdaldho3x)
 
 ---
 
