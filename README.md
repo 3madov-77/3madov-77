@@ -22,7 +22,7 @@
 
 ## Vibing to : 🎧
 
-[<img src="https://spotify-now-playing-3madov-77.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cctn3q7vtwjyunoktdaldho3x)
+[<img src="spotify-now-playing-gold-iota.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cctn3q7vtwjyunoktdaldho3x)
 
 ---
 
