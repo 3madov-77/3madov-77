@@ -1,7 +1,7 @@
 ### Hi there, I'm Emad - aka [3madoV](https://www.linkedin.com/in/emad-alzoubi/) 👋
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <img src="https://img.shields.io/github/stars/emad-aldeen" alt="Stars Badge"/>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=emad-aldeen.emad-aldeen)
+![visitors](https://komarev.com/ghpvc/?username=emad-aldeen)
 
 <div align="center">
 
